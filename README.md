@@ -1,6 +1,6 @@
-### PyBer_Analysis
+## PyBer_Analysis
 
-##1.Overview of the analysis: 
+## 1.Overview of the analysis: 
 We created an analysis of Ride Sharing data with two data sets. One for cities and other for rides. 
 Using matplotlib, pandas and Jupyter notebook, we compared the quantity and costs of rides in every city type: urban, suburban and rural. 
 
